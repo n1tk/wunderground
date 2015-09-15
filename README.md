@@ -7,7 +7,7 @@ test examples for wrapping wunderground API using python (including single city,
 
 ###geolookup
 #####Returns the city name, zip code / postal code, latitude-longitude coordinates and nearby personal weather 
-stations.
+#####stations.
 
 ###conditions
 #####Returns the current temperature, weather condition, humidity, wind, 'feels like' temperature, barometric pressure, and visibility.
